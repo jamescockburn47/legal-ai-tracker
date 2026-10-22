@@ -1,0 +1,2486 @@
+{
+  "records": [
+    {
+      "title": "Using artificial intelligence in legal practice",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/using-artificial-intelligence-in-legal-practice",
+      "date": "2026-10-21",
+      "publisher": "The Law Society",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance",
+        "Confidentiality & privilege",
+        "Competence & training",
+        "Client care & transparency"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "In-house lawyer"
+      ],
+      "summary": "A practice note covering professional duties, governance and the use of AI within legal practice. It distinguishes practical adoption questions from the underlying regulatory obligations.",
+      "action": "Compare the practice note with your AI policy, procurement assessment and training plan. Record where existing arrangements already address the issues.",
+      "authority": "Professional-body practice note; not regulator rules",
+      "pinpoint": "Introduction; Professional duties; AI governance",
+      "status": "Current",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Position statement on the judicial use of AI",
+      "url": "https://www.judiciary.uk/guidance-and-resources/position-statement-on-the-judicial-use-of-artificial-intelligence-ai/",
+      "date": "2026-10-09",
+      "publisher": "Courts and Tribunals Judiciary",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance",
+        "Accuracy & hallucinations",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The judiciary describes its approach to AI adoption, oversight, pilots and safeguards. The statement complements its October 2025 guidance. It addresses judicial use; it is not a general technology specification for law firms.",
+      "action": "Brief litigation teams on the scope of the statement. Distinguish requirements for judicial tools from your own professional and client obligations.",
+      "authority": "Judicial policy statement",
+      "pinpoint": "Purpose; Scope; Core principles; Tools",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Misuse of AI: SRA warning notice",
+      "url": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/",
+      "date": "2026-08-17",
+      "publisher": "Solicitors Regulation Authority",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Confidentiality & privilege",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "In-house lawyer"
+      ],
+      "summary": "The SRA addresses inaccurate AI-assisted material, confidentiality risks, supervision and accountability. Its warning notice explains how it approaches existing professional obligations.",
+      "action": "Review authority-checking, supervisory sign-off and safeguards for client information. Identify the actual products, contracts and settings in use.",
+      "authority": "Regulator warning notice; existing duties remain applicable",
+      "pinpoint": "Status; AI hallucinations \u2013 relevant considerations; Client confidentiality \u2013 relevant considerations",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "How AI tools hallucinate \u2014 and why it matters in law",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/how-ai-tools-hallucinate-and-why-it-matters-in-law",
+      "date": "2026-07-21",
+      "publisher": "The Law Society",
+      "kind": "Commentary",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Competence & training"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "A professional-body explainer about plausible but inaccurate AI-generated material and the importance of checking legal work.",
+      "action": "Consider including the explainer in introductory training, alongside practical source-verification exercises.",
+      "authority": "Professional-body commentary",
+      "pinpoint": "Key insights",
+      "status": "Current",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "CJC: update on AI and the preparation of court documents",
+      "url": "https://www.judiciary.uk/related-offices-and-bodies/advisory-bodies/cjc/latest-news/",
+      "date": "2026-06-30",
+      "publisher": "Civil Justice Council",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The June consultation update identifies issues concerning witness statements, expert evidence and litigants in person. It describes emerging thinking and further work, rather than enacted procedural changes.",
+      "action": "Monitor the final report. Do not treat a consultation direction as a new court rule.",
+      "authority": "Consultation update; not a rule or practice direction",
+      "pinpoint": "30 June 2026 update; Emerging direction of travel; Next steps",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Generative AI \u2014 the essentials",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/generative-ai-the-essentials",
+      "date": "2026-06-30",
+      "publisher": "The Law Society",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Procurement & security",
+        "Competence & training",
+        "Confidentiality & privilege"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "In-house lawyer"
+      ],
+      "summary": "A primer for solicitors and firms considering generative AI, including a checklist addressing use cases, vendors, data, oversight and outputs.",
+      "action": "Use the checklist as a starting point for a documented adoption assessment, tailored to each proposed use.",
+      "authority": "Professional-body guide",
+      "pinpoint": "Checklist when considering generative AI use",
+      "status": "Current",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "R v FGD [2026] EWCA Crim 918",
+      "url": "https://www.bailii.org/ew/cases/EWCA/Crim/2026/918.html",
+      "date": "2026-06-04",
+      "publisher": "Court of Appeal (Criminal Division)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence",
+        "Confidentiality & privilege"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "A prosecution appeal concerning a witness\u2019s use of AI before giving evidence. The court reversed the stay and addressed witness coaching, fairness and the potential consequences of AI-assisted preparation.",
+      "action": "Review witness-preparation communications and consider how relevant AI interactions might become an evidential or disclosure issue.",
+      "authority": "Court of Appeal judgment",
+      "pinpoint": "Paragraphs 1, 5 and 18\u201320",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Primary judgment retrieved: the appeal proceeded on the basis that the documents were AI-generated, although that attribution was disputed; the prompts were not known.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "BSB guidance on AI and other technologies",
+      "url": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf",
+      "date": "2026-05-18",
+      "publisher": "Bar Standards Board",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance",
+        "Competence & training",
+        "Procurement & security",
+        "Confidentiality & privilege"
+      ],
+      "roles": [
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "Guidance organised around adoption and use of technology: competence, procurement, management, client duties and the use of AI by others.",
+      "action": "Assess individual practice and chambers arrangements separately. Record training needs and the basis for approving specific uses.",
+      "authority": "BSB Code Guidance",
+      "pinpoint": "Introduction; sections 2\u20136",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Updated generative AI guidance for the Bar",
+      "url": "https://www.barcouncil.org.uk/resource/updated-guidance-on-generative-ai-for-the-bar.html",
+      "date": "2025-11-26",
+      "publisher": "Bar Council",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Confidentiality & privilege",
+        "Competence & training"
+      ],
+      "roles": [
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The Bar Council announces updated guidance responding to developing technology and case law. This is professional-body material, distinct from BSB Code Guidance.",
+      "action": "Review the linked November 2025 document and any later BSB guidance together.",
+      "authority": "Professional-body guidance announcement",
+      "pinpoint": "Publication and changes",
+      "status": "Current",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Judicial AI guidance: October 2025 edition",
+      "url": "https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance-october-2025/",
+      "date": "2025-10-31",
+      "publisher": "Courts and Tribunals Judiciary",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Confidentiality & privilege",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Updated guidance for judicial office holders and supporting staff, replacing the April 2025 edition. The announcement highlights confidentiality, bias and inaccurate output.",
+      "action": "Distinguish the guidance\u2019s intended audience from practising lawyers, while considering relevant lessons for checking and handling information.",
+      "authority": "Judicial guidance; directed to judicial office holders",
+      "pinpoint": "Announcement; scope and replacement statement",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Ayinde / Al-Haroun [2025] EWHC 1383 (Admin)",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2025/06/Ayinde-v-London-Borough-of-Haringey-and-Al-Haroun-v-Qatar-National-Bank.pdf",
+      "date": "2025-06-06",
+      "publisher": "High Court, Divisional Court",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance",
+        "Competence & training"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The court addresses verification of AI-assisted legal research, responsibility when relying on others\u2019 work and practical measures by those in professional leadership roles.",
+      "action": "Review how authoritative sources are checked and how supervisors establish that checks have occurred. Consider evidence that leadership measures reach everyone doing legal work.",
+      "authority": "Divisional Court judgment",
+      "pinpoint": "Paragraphs 7\u20139",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Primary judgment retrieved. Paragraphs 7\u20139 support this limited research-verification and leadership note; individual allegations and sanctions are not summarised here.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "EDPB opinion on personal data and AI models",
+      "url": "https://www.edpb.europa.eu/news/edpb-opinion-on-ai-models-gdpr-principles-support-responsible-ai_en",
+      "date": "2024-12-18",
+      "publisher": "European Data Protection Board",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Data protection",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The EDPB announces an opinion addressing anonymity, legitimate interests and the consequences of unlawful processing in AI model development and deployment.",
+      "action": "For EU-facing work, examine the opinion and relevant processing facts. Do not assume that an EU regulatory view determines the UK position.",
+      "authority": "EU regulator opinion announcement",
+      "pinpoint": "Opinion overview; case-by-case assessment",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "The impact and value of AI for IP and the courts",
+      "url": "https://www.judiciary.uk/the-impact-and-value-of-ai-for-ip-and-the-courts-a-speech-by-lord-justice-birss/",
+      "date": "2024-12-05",
+      "publisher": "Lord Justice Birss / Judiciary",
+      "kind": "Commentary",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Competition & IP",
+        "Access to justice"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Publication page for a speech delivered on 3 December 2024 concerning AI, intellectual property and the courts. Included as attributed judicial commentary, not a judgment.",
+      "action": "Read for context when assessing AI opportunities and court-related developments.",
+      "authority": "Judicial speech; not a judicial decision",
+      "pinpoint": "Publication page; speech date",
+      "status": "Current",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "ABA Formal Opinion 512: generative AI tools",
+      "url": "https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf",
+      "date": "2024-07-29",
+      "publisher": "American Bar Association",
+      "kind": "Professional guidance",
+      "jurisdiction": "US",
+      "topics": [
+        "Competence & training",
+        "Confidentiality & privilege",
+        "Supervision & governance",
+        "Client care & transparency"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "An ethics opinion addressing competent representation, client information, communication, supervision, candour and fees when using generative AI.",
+      "action": "Use as comparative material. Check the applicable jurisdiction\u2019s rules before adopting any proposition as a professional requirement.",
+      "authority": "US professional ethics opinion; not an England and Wales rule",
+      "pinpoint": "Opening summary and Introduction",
+      "status": "Current",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "DRCF launches AI and Digital Hub",
+      "url": "https://www.drcf.org.uk/publications/press-releases/the-drcf-launches-informal-advice-service-to-support-innovation-and-enable-economic-growth",
+      "date": "2024-04-22",
+      "publisher": "Digital Regulation Cooperation Forum",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The DRCF announces a multi-regulator informal advice pilot involving the CMA, FCA, ICO and Ofcom. This record describes the 2024 launch; current service availability needs checking.",
+      "action": "Consider cross-regulator issues during product assessment and verify the current advice service before relying on availability.",
+      "authority": "Regulator service announcement",
+      "pinpoint": "22 April 2024 announcement",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "CMA foundation models: update paper",
+      "url": "https://www.gov.uk/government/publications/ai-foundation-models-update-paper",
+      "date": "2024-04-11",
+      "publisher": "Competition and Markets Authority",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Competition & IP",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The CMA\u2019s update considers developments in foundation-model markets, competition and consumer risks, and principles intended to guide market outcomes.",
+      "action": "Consider dependencies and supplier concentration when reviewing an AI procurement strategy.",
+      "authority": "Regulator market report",
+      "pinpoint": "Details; update paper and technical update report",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Implementing the UK\u2019s AI regulatory principles",
+      "url": "https://www.gov.uk/government/publications/implementing-the-uks-ai-regulatory-principles-initial-guidance-for-regulators",
+      "date": "2024-02-06",
+      "publisher": "DSIT",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Initial voluntary guidance for regulators implementing the UK\u2019s AI regulatory principles within their remits. It is addressed to regulators rather than a standalone compliance code for firms.",
+      "action": "Use as policy context; locate the applicable sector regulator\u2019s actual requirements.",
+      "authority": "Government policy guidance to regulators",
+      "pinpoint": "Details; voluntary nature",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Bar Council launches generative AI guidance",
+      "url": "https://www.barcouncil.org.uk/resource/new-guidance-on-generative-ai-for-the-bar.html",
+      "date": "2024-01-30",
+      "publisher": "Bar Council",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Confidentiality & privilege",
+        "Competence & training"
+      ],
+      "roles": [
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The original guidance announcement discusses understanding AI tools, checking outputs and protecting confidential information. The Bar Council subsequently announced an update in November 2025.",
+      "action": "Consult the updated material for current practice; retain this record for historical comparison.",
+      "authority": "Professional-body announcement",
+      "pinpoint": "Publication date; practitioner considerations",
+      "status": "Historical / superseded",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Harber v HMRC [2023] UKFTT 1007 (TC)",
+      "url": "https://www.bailii.org/uk/cases/UKFTT/TC/2023/TC09010.html",
+      "date": "2023-12-04",
+      "publisher": "First-tier Tribunal (Tax Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "UK",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Competence & training"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The tribunal found that purported authorities relied on by an unrepresented appellant were not genuine and had been generated by an AI system.",
+      "action": "Consider how client-supplied research is checked before use. Preserve the distinction between this finding and an inference that any unusual citation proves AI use.",
+      "authority": "First-tier Tribunal decision",
+      "pinpoint": "Paragraphs 2 and 18\u201321",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Primary decision retrieved. Paragraph 21 records the tribunal\u2019s finding; this note does not attribute deliberate misconduct to the appellant.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "SRA Risk Outlook: AI in the legal market",
+      "url": "https://www.sra.org.uk/sra/research-publications/artificial-intelligence-legal-market/",
+      "date": "2023-11-20",
+      "publisher": "Solicitors Regulation Authority",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security",
+        "Accuracy & hallucinations"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "In-house lawyer"
+      ],
+      "summary": "The SRA reviews opportunities and risks as AI tools become more accessible, including informal staff use outside formal firm adoption.",
+      "action": "Check whether your technology inventory captures informal use as well as centrally procured products. Read alongside subsequent SRA guidance.",
+      "authority": "Regulator risk report",
+      "pinpoint": "Introduction; How is AI being used in the legal sector?",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "ICO response to the generative AI consultation series",
+      "url": "https://ico.org.uk/about-the-ico/what-we-do/our-work-on-artificial-intelligence/response-to-the-consultation-series-on-generative-ai/",
+      "date": null,
+      "publisher": "Information Commissioner\u2019s Office",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The ICO summarises its 2024 consultation series and positions on specific data-protection questions. The publication notes that further legislative changes may affect its analysis. Exact publication day has not been established here.",
+      "action": "Consult current ICO material and the applicable legislation when assessing processing roles and safeguards.",
+      "authority": "Regulator consultation response",
+      "pinpoint": "Background; Executive summary",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Matthew Lee: AI Law Trackers hub",
+      "url": "https://naturalandartificiallaw.com/ai-law-trackers-hub/",
+      "date": null,
+      "publisher": "Matthew Lee \u00b7 Natural & Artificial Law",
+      "kind": "Commentary",
+      "jurisdiction": "International",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Confidentiality & privilege",
+        "Witnesses & evidence"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "A discovery resource linking thematic trackers on AI and legal practice. Inclusion in a tracker does not establish AI use or misconduct. This Observatory links to the collection and does not reproduce its datasets.",
+      "action": "Use the linked trackers to identify primary materials for independent review.",
+      "authority": "Independent research / discovery resource",
+      "pinpoint": "Tracker directory; scope and qualifications",
+      "status": "Monitor",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Damien Charlotin: AI Hallucination Cases Database",
+      "url": "https://www.damiencharlotin.com/hallucinations/",
+      "date": null,
+      "publisher": "Damien Charlotin",
+      "kind": "Commentary",
+      "jurisdiction": "International",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "A specialist collection of decisions addressing AI-hallucinated material. The site offers a CSV under CC BY 4.0. This entry is a source link; a bulk import has not been completed.",
+      "action": "Follow the underlying decisions and preserve their procedural context and evidential qualifications.",
+      "authority": "Independent research dataset; not an official register",
+      "pinpoint": "Introduction; licence and attribution",
+      "status": "Monitor",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher material retrieved during the initial research on 21 October 2026. Verification is limited to the proposition in this short note; not a complete legal review.",
+      "editorial": "Machine-assisted; editorial review pending"
+    },
+    {
+      "title": "Effective supervision (June 2026 update)",
+      "url": "https://www.sra.org.uk/solicitors/guidance/effective-supervision-guidance/",
+      "date": "2026-06-12",
+      "publisher": "SRA",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Updated supervision guidance includes human review and professional judgement for AI-assisted work. An authorised individual retains ultimate responsibility for legal services delivered with AI assistance. The wider guidance addresses proportionate supervision and recording decision-making.",
+      "action": "Review AI output sign-off and supervision arrangements.",
+      "authority": "Regulator guidance; scope and legal status stated in source",
+      "pinpoint": "Status; Supervision and Artificial Intelligence (AI)",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Updated 12 June 2026; originally published 23 November 2022. Currency review: Updated 12 June 2026; originally published 23 November 2022.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn17view3",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Updated 12 June 2026; originally published 23 November 2022."
+    },
+    {
+      "title": "Guidance on promoting technology and innovation to improve access to legal services",
+      "url": "https://legalservicesboard.org.uk/wp-content/uploads/2024/04/Technology-and-innovation-guidance-for-publication.pdf",
+      "date": "2024-04-23",
+      "publisher": "Legal Services Board",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Access to justice"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Statutory guidance sets outcomes for legal services regulators on technology, innovation, access and consumer protection. It is addressed to regulators rather than directly imposing AI-specific duties on individual practitioners.",
+      "action": "Use to understand the direction of legal-services regulation.",
+      "authority": "Regulator guidance; scope and legal status stated in source",
+      "pinpoint": "Paragraphs 1\u20133, 14\u201315",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Issued under section 162 of the Legal Services Act 2007; no replacement identified in the checked sources. Currency review: Issued under section 162 of the Legal Services Act 2007; no replacement identified in the checked sources.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn36view1",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Issued under section 162 of the Legal Services Act 2007; no replacement identified in the checked sources."
+    },
+    {
+      "title": "Delivering a pro-innovation approach to AI regulation: LSB approach",
+      "url": "https://legalservicesboard.org.uk/wp-content/uploads/2024/04/Legal-Services-Board-update-on-AI-approach-April-2024-pdf.pdf",
+      "date": "2024-04-29",
+      "publisher": "Legal Services Board",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The LSB explains its oversight remit, approach to AI regulation and planned work following a ministerial request. It connects innovation with consumer risk, professional education and ethical obligations.",
+      "action": "Read alongside the later 2026\u201327 AI plan.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Cover letter; About the Legal Services Board",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Time-specific 2024 policy statement; later 2026\u201327 plan exists, but no express withdrawal found. Currency review: Time-specific 2024 policy statement; later 2026\u201327 plan exists, but no express withdrawal found.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn23view1",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Time-specific 2024 policy statement; later 2026\u201327 plan exists, but no express withdrawal found."
+    },
+    {
+      "title": "AI-driven innovation: plans for 2026\u201327",
+      "url": "https://legalservicesboard.org.uk/wp-content/uploads/2026/06/LSB-AI-plan-2026-27.pdf",
+      "date": null,
+      "publisher": "Legal Services Board",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Access to justice"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The LSB plan focuses on regulatory coordination, clarity and consumer confidence. It discusses frontline regulators' application of existing professional rules and possible standards for consumer-facing AI tools outside the regulated sector.",
+      "action": "Monitor resulting frontline guidance and consumer-protection initiatives.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Paragraphs 2, 8\u201311",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Cover states June 2026; exact publication day not established. Currency review: Cover states June 2026; exact publication day not established.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn23view0",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Cover states June 2026; exact publication day not established."
+    },
+    {
+      "title": "AI in legal services: consumer expectations and existing standards",
+      "url": "https://legalservicesboard.org.uk/research-2/ai-in-legal-services-consumer-expectations-and-existing-standards",
+      "date": "2026-06-10",
+      "publisher": "Legal Services Board",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Client care & transparency"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Publisher overview of two commissioned research reports on consumer expectations and standards for AI legal tools. It identifies gaps concerning vulnerable users, routes to specialist support and redress.",
+      "action": "Consider escalation routes and clarity for clients using AI legal information.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Why we commissioned this research; What the research found",
+      "status": "Monitor",
+      "verification": "Publisher source checked",
+      "evidence": "Publisher search text checked; direct page fetch timed out. Reports themselves not separately verified. Currency review: Publisher search text checked; direct page fetch timed out. Reports themselves not separately verified.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn15search7",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Publisher search text checked; direct page fetch timed out. Reports themselves not separately verified."
+    },
+    {
+      "title": "Artificial Intelligence: Guidance for Judicial Office Holders (December 2023)",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2023/12/AI-Judicial-Guidance.pdf",
+      "date": "2023-12-12",
+      "publisher": "Courts and Tribunals Judiciary",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Original judicial guidance addressed accuracy, confidentiality, accountability and awareness of AI use by court users. Retained to explain the development of judicial policy; later guidance expressly replaced it.",
+      "action": "Use later guidance for present practice.",
+      "authority": "Professional or judicial guidance; not legislation",
+      "pinpoint": "Cover; introduction; guidance sections 1\u20137",
+      "status": "Historical / superseded",
+      "verification": "Primary source checked",
+      "evidence": "Expressly replaced by April 2025 guidance, introduction. Currency review: Expressly replaced by April 2025 guidance, introduction.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn32view3",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Expressly replaced by April 2025 guidance, introduction.",
+      "superseded_by_url": "https://www.judiciary.uk/wp-content/uploads/2025/04/Refreshed-AI-Guidance-published-version.pdf",
+      "currency_evidence_url": "https://www.judiciary.uk/wp-content/uploads/2025/04/Refreshed-AI-Guidance-published-version.pdf"
+    },
+    {
+      "title": "Artificial Intelligence: Guidance for Judicial Office Holders (April 2025)",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2025/04/Refreshed-AI-Guidance-published-version.pdf",
+      "date": "2025-04-14",
+      "publisher": "Courts and Tribunals Judiciary",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Confidentiality & privilege"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The April revision replaced December 2023 guidance and introduced the private Copilot Chat tool available through eJudiciary. It retained judicial responsibility for outputs and addressed public-tool confidentiality and accuracy risks.",
+      "action": "Use October 2025 guidance for present practice.",
+      "authority": "Professional or judicial guidance; not legislation",
+      "pinpoint": "Cover; introduction; sections 3\u20134",
+      "status": "Historical / superseded",
+      "verification": "Primary source checked",
+      "evidence": "October 2025 publisher page expressly says it replaces April 2025 guidance. Currency review: October 2025 publisher page expressly says it replaces April 2025 guidance.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn32view4",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "October 2025 publisher page expressly says it replaces April 2025 guidance.",
+      "superseded_by_url": "https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance-october-2025/",
+      "currency_evidence_url": "https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance-october-2025/",
+      "currency_research_ref": "turn36view3"
+    },
+    {
+      "title": "Use of AI for Preparing Court Documents: Interim Report and Consultation",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Interim-Report-and-Consultation-Use-of-AI-for-Preparing-Court-Documents-2.pdf",
+      "date": null,
+      "publisher": "Civil Justice Council",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Consultation examines whether procedural rules should address AI in pleadings, advocacy documents, disclosure, witness statements and expert reports. Its proposals distinguish substantive evidence generation from administrative uses. Proposals are not enacted court rules.",
+      "action": "Track the final report and any subsequent rule changes.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Paragraphs 1.3\u20131.5, 2.2, 2.9\u20132.10",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "2026 consultation; exact publication day not established from checked document. Currency review: 2026 consultation; exact publication day not established from checked document.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn32view0",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "2026 consultation; exact publication day not established from checked document."
+    },
+    {
+      "title": "Bar Council response to CJC consultation on AI for preparing court documents",
+      "url": "https://www.barcouncil.org.uk/static/bbb74182-4859-4a76-85b1e4b729b84489/Bar-Council-response-to-the-CJC-consultation-on-AI.pdf",
+      "date": "2026-04-21",
+      "publisher": "Bar Council",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence"
+      ],
+      "roles": [
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The Bar Council supports reliance on existing professional duties for statements of case and advocacy documents, while advocating controls on AI-generated witness evidence. This is a representative body's consultation position, not an operative procedural rule.",
+      "action": "Monitor the CJC outcome before treating proposed declarations as requirements.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Introduction; response questions; publisher announcement 21 April 2026",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publication date taken from Bar Council announcement, not inferred from PDF metadata. Currency review: Publication date taken from Bar Council announcement, not inferred from PDF metadata.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn28view2",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Publication date taken from Bar Council announcement, not inferred from PDF metadata."
+    },
+    {
+      "title": "Technology and Innovation at the Bar: research publication",
+      "url": "https://www.barstandardsboard.org.uk/resources/the-bar-standards-board-publishes-technology-and-innovation-at-the-bar-research.html",
+      "date": "2025-04-28",
+      "publisher": "Bar Standards Board",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Competence & training"
+      ],
+      "roles": [
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The BSB reports research on technology adoption by barristers and chambers, including training gaps, investment barriers and cautious AI adoption for administrative work. It highlights the continuing importance of professional skill and judgement.",
+      "action": "Consider chambers-wide training and procurement support.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Research findings and opportunities/barriers paragraphs",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publisher research announcement; not conduct guidance. Currency review: Publisher research announcement; not conduct guidance.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn25search5",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Publisher research announcement; not conduct guidance."
+    },
+    {
+      "title": "Artificial intelligence strategy",
+      "url": "https://www.lawsociety.org.uk/Topics/AI-and-lawtech/Whats-changing/Artificial-intelligence-AI-strategy",
+      "date": "2024-09-16",
+      "publisher": "The Law Society",
+      "kind": "Report / policy",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The Law Society sets out priorities for AI adoption, regulatory influence and ethical use supporting the rule of law and access to justice. This describes the professional body's programme rather than regulatory requirements.",
+      "action": "Use as context for the Society's practical AI resources.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Our view; What we\u2019re doing",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Dated strategy; later implementation material should be read alongside it. Currency review: Dated strategy; later implementation material should be read alongside it.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn25search1",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Dated strategy; later implementation material should be read alongside it."
+    },
+    {
+      "title": "Buying new technology",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/buying-new-technology",
+      "date": "2026-03-24",
+      "publisher": "The Law Society",
+      "kind": "Professional guidance",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Practical procurement guide for law firms and legal teams covering identifying needs, selecting suppliers, purchasing and embedding technology. It highlights risks from rushed adoption and provides a framework applicable to AI procurement.",
+      "action": "Review vendor selection, contracting, implementation and evaluation processes.",
+      "authority": "Professional or judicial guidance; not legislation",
+      "pinpoint": "Introduction and procurement steps",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Guide date 24 March 2026; later launch announcement dated 29 April 2026 is not a second guide. Currency review: Guide date 24 March 2026; later launch announcement dated 29 April 2026 is not a second guide.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn28search0",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Guide date 24 March 2026; later launch announcement dated 29 April 2026 is not a second guide."
+    },
+    {
+      "title": "AI tools used in recruitment",
+      "url": "https://ico.org.uk/action-weve-taken/audits-and-overview-reports/2024/11/ai-tools-used-in-recruitment/",
+      "date": "2024-11-06",
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Audit overview concerns developers and providers of AI sourcing, screening and selection tools. Findings include fairness, data minimisation and transparency risks, with lessons relevant to firms and chambers procuring recruitment tools.",
+      "action": "Review recruitment suppliers' data protection assurances.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Overview report; accompanying audit findings announcement",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Historical audit findings; later Recruitment rewired report addresses employer use rather than expressly replacing this report. Currency review: Historical audit findings; later Recruitment rewired report addresses employer use rather than expressly replacing this report.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn18search2",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Historical audit findings; later Recruitment rewired report addresses employer use rather than expressly replacing this report."
+    },
+    {
+      "title": "Recruitment rewired: fair and responsible use of automation in recruitment",
+      "url": "https://cy.ico.org.uk/about-the-ico/what-we-do/recruitment-rewired/",
+      "date": null,
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Based on voluntary engagement with employers, this report discusses meaningful human involvement, transparency, bias and safeguards in automated recruitment. It distinguishes this engagement from an audit or investigation and identifies potential solely automated decisions.",
+      "action": "Check recruitment workflows for meaningful human involvement and candidate transparency.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Executive summary, especially final paragraphs",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Evidence gathered March 2025\u2013January 2026; publication day not shown in checked page. Currency review: Evidence gathered March 2025\u2013January 2026; publication day not shown in checked page.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn36view2",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Evidence gathered March 2025\u2013January 2026; publication day not shown in checked page."
+    },
+    {
+      "title": "Preventing harm, promoting trust: AI and biometrics strategy",
+      "url": "https://ico.org.uk/about-the-ico/our-information/our-strategies-and-plans/artificial-intelligence-and-biometrics-strategy/",
+      "date": null,
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "ICO strategy identifies priorities covering AI governance, foundation models, automated decision-making and facial recognition. It sets an agenda for guidance and regulatory engagement rather than constituting a completed statutory AI code.",
+      "action": "Monitor forthcoming guidance relevant to deployment and recruitment.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Introduction; strategy priorities",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Published June 2025 according to ICO's later update; exact day not verified. Currency review: Published June 2025 according to ICO's later update; exact day not verified.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn26view4",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Published June 2025 according to ICO's later update; exact day not verified."
+    },
+    {
+      "title": "AI and biometrics strategy update: March 2026",
+      "url": "https://ico.org.uk/about-the-ico/our-information/our-strategies-and-plans/artificial-intelligence-and-biometrics-strategy/ai-and-biometrics-strategy-update-march-2026/",
+      "date": null,
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Progress update describes work on automated decision-making guidance, recruitment, foundation models and emerging agentic AI risks. Several promised outputs have since appeared, so its forward-looking timetable should be treated as a March 2026 snapshot.",
+      "action": "Follow later substantive publications rather than relying on this timetable.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Give organisations certainty; foundation model developers; emerging AI risks",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Title states March 2026; exact publication day not established. October 2026 foundation-model report updates that strand. Currency review: Title states March 2026; exact publication day not established. October 2026 foundation-model report updates that strand.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn36view0",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Title states March 2026; exact publication day not established. October 2026 foundation-model report updates that strand."
+    },
+    {
+      "title": "ICO tech futures: Agentic AI",
+      "url": "https://ico.org.uk/about-the-ico/research-reports-impact-and-evaluation/research-and-reports/technology-and-innovation/tech-horizons-and-ico-tech-futures/ico-tech-futures-agentic-ai/",
+      "date": "2026-01-08",
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Foresight report explores autonomous AI capabilities and implications for accountability, transparency, purpose limitation and data minimisation. It is early regulatory thinking, with later consultation seeking evidence to inform guidance.",
+      "action": "Include autonomous actions and data access in AI risk assessments.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Introduction; Data protection and privacy risks",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publication day confirmed by ICO release of 8 January 2026; later October call for evidence is complementary. Currency review: Publication day confirmed by ICO release of 8 January 2026; later October call for evidence is complementary.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn32view5",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Publication day confirmed by ICO release of 8 January 2026; later October call for evidence is complementary."
+    },
+    {
+      "title": "Agentic AI call for evidence",
+      "url": "https://cy.ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/10/agentic-ai-call-for-evidence/",
+      "date": "2026-10-08",
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The ICO seeks evidence on agentic AI covering security, transparency, accountability, automated decision-making, fairness and lawful processing. Responses will inform further guidance.",
+      "action": "Consider responding where the practice develops or deploys agentic systems.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Start/closing dates; consultation scope",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Open at 21 October 2026; closes 20 November 2026. Consultation is not final guidance. Currency review: Open at 21 October 2026; closes 20 November 2026. Consultation is not final guidance.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn20search6",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Open at 21 October 2026; closes 20 November 2026. Consultation is not final guidance."
+    },
+    {
+      "title": "Building trust and transparency into generative AI development",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/building-trust-and-transparency-into-generative-ai-development-our-work-to-create-regulatory-certainty/",
+      "date": "2026-10-08",
+      "publisher": "ICO",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "ICO report explains expectations for foundation-model developers concerning lawful basis, transparency, individual rights and safeguards. It reports supervisory work and addresses challenges concerning special-category data and personal information within models.",
+      "action": "Use the report when evaluating model suppliers' data protection claims.",
+      "authority": "Publisher report, policy or consultation; not an enacted rule",
+      "pinpoint": "Our message to model developers; Data protection challenges and our expectations",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Publication day confirmed by ICO announcement of 8 October 2026. Currency review: Publication day confirmed by ICO announcement of 8 October 2026.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn28view0",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Publication day confirmed by ICO announcement of 8 October 2026."
+    },
+    {
+      "title": "AI and data protection risk toolkit",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/",
+      "date": null,
+      "publisher": "ICO",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Toolkit supports organisations assessing risks that AI systems pose to people's rights and freedoms. The publisher flags that the guidance is under review following the Data (Use and Access) Act.",
+      "action": "Use with the publisher's review warning and check for updated guidance.",
+      "authority": "Regulator guidance; scope and legal status stated in source",
+      "pinpoint": "Opening review notice; toolkit introduction",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Explicitly under review due to Data (Use and Access) Act changes; no replacement established. Foundational resource, date unknown. Currency review: Explicitly under review due to Data (Use and Access) Act changes; no replacement established. Foundational resource, date unknown.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn28search4",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Explicitly under review due to Data (Use and Access) Act changes; no replacement established. Foundational resource, date unknown."
+    },
+    {
+      "title": "Guidance on AI and data protection: scope and legal status",
+      "url": "https://cy.ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/about-this-guidance/",
+      "date": null,
+      "publisher": "ICO",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "UK",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "The ICO explains its AI data-protection framework, audience and relationship to audit tools. It expressly states that this guidance is not a statutory code and distinguishes recommended good practice from compliance with the law.",
+      "action": "Use alongside current legislation and the ICO's update notices.",
+      "authority": "Regulator guidance; scope and legal status stated in source",
+      "pinpoint": "Why have you produced this guidance?; Who is this guidance for?",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Foundational guidance; publication date not verified. Check post-Data (Use and Access) Act revisions before relying on detailed propositions. Currency review: Foundational guidance; publication date not verified. Check post-Data (Use and Access) Act revisions before relying on detailed propositions.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn28search6",
+      "checked_at": "2026-10-21T00:00:00Z",
+      "currency_note": "Foundational guidance; publication date not verified. Check post-Data (Use and Access) Act revisions before relying on detailed propositions."
+    },
+    {
+      "title": "Hancox v Sutherland & Ors [2026] EAT 139",
+      "url": "https://www.bailii.org/uk/cases/UKEAT/2026/139.html",
+      "date": "2026-09-17",
+      "publisher": "Employment Appeal Tribunal",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "At an inter partes preliminary appeal hearing, an unrepresented appellant filed a 300-page ChatGPT-produced skeleton that did not comply with the practice direction and was not ultimately relied on. The EAT stressed personal responsibility for documents and careful checking, including for litigants in person.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 7 and 41",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn16search0; turn39search4",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Malcolm Cork & Anor v Smith [2026] EWHC 1199 (Ch)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/Ch/2026/1199.html",
+      "date": "2026-05-22",
+      "publisher": "High Court (Chancery Division)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "In a block transfer application, misleading letters prompted judicial scrutiny of AI use and supervision. The court regarded public admonishment and regulatory referral as proportionate. The firm had already self-reported; the judge did not find deliberate misleading by the two named supervising lawyers. Referral is distinct from a regulatory finding.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 1\u20132, 82\u201383 and 90",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn27search2",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "R (Munir) v Secretary of State for the Home Department (AI hallucinations; supervision; Hamid) [2026] UKUT 81 (IAC)",
+      "url": "https://www.bailii.org/uk/cases/UKUT/IAC/2026/81.html",
+      "date": "2025-11-17",
+      "publisher": "Upper Tribunal (Immigration and Asylum Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance",
+        "Confidentiality & privilege"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "A Hamid decision addressing false authorities and supervision. It records a revised judicial review statement of truth concerning existence, citation and relevance of authorities. Paragraph 21 also makes observations about confidentiality and AI uploads. Those observations should be read in their context, not treated as a universal technical description of every AI service.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 7\u20139, 21 and 59\u201360",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: BAILII indexes a decision date of 17 November 2025 despite its 2026 citation. Publication date not independently established. Subsequent history not independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn16search2; turn24search1; turn24search2",
+      "currency_note": "BAILII indexes a decision date of 17 November 2025 despite its 2026 citation. Publication date not independently established. Subsequent history not independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Godwin v Godwin [2026] EWHC 923 (Ch)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/Ch/2026/923.html",
+      "date": "2026-04-22",
+      "publisher": "High Court (Chancery Division)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "In proceedings concerning disposal of a deceased person\u2019s body, two witnesses described using ChatGPT for language and presentation. Their initial drafts were unavailable. The judge could not be sure their statements were in their own words and approached their evidence cautiously. This was a fact-specific assessment under the applicable witness statement directions.",
+      "action": "Retain original witness drafts and a clear preparation record; check the applicable directions before using AI in evidence preparation.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 42\u201348",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn44search2",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "MS v Secretary of State for the Home Department (Professional Conduct: AI Generated Documents) Bangladesh [2025] UKUT 305 (IAC)",
+      "url": "https://www.bailii.org/uk/cases/UKUT/IAC/2025/305.html",
+      "date": "2025-08-12",
+      "publisher": "Upper Tribunal (Immigration and Asylum Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "A Hamid hearing considered counsel\u2019s use of an AI-generated authority and subsequent explanations. The tribunal found failures of integrity and professional responsibility. It distinguished those findings from deliberately introducing known false material and stated the Hamid decision was not binding on the BSB\u2019s investigation.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 3, 11\u201316",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn19search1; turn24search5",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Re A, B, C, D (Extension of assessment; Use of AI: hallucinations) [2026] EWFC 71 (B)",
+      "url": "https://www.bailii.org/ew/cases/EWFC/OJ/2026/71.html",
+      "date": "2026-03-05",
+      "publisher": "Family Court",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance",
+        "Confidentiality & privilege",
+        "Access to justice"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The court scrutinised inaccurate references in an AI-assisted skeleton. It distinguished permissible assistance from duties concerning accuracy, privacy and confidentiality. The judge accepted there was no intention to mislead and recorded a self-report to the BSB, without predicting the regulator\u2019s response. The published judgment preserves the family\u2019s anonymity.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 26, 70\u201373 and 78\u201380",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn33search1; turn39search0",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Oakley v Information Commissioner [2024] UKFTT 315 (GRC)",
+      "url": "https://www.bailii.org/uk/cases/UKFTT/GRC/2024/315.html",
+      "date": "2024-04-18",
+      "publisher": "First-tier Tribunal (General Regulatory Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "In an information-rights appeal, the appellant relied on ChatGPT-generated search terms to challenge the adequacy of a public authority\u2019s searches. The appeal was dismissed. The tribunal\u2019s approach to the weight of AI evidence was subsequently quoted in Surridge, including concerns about unexplained sources and methodology.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 22\u201327; subsequent quotation in Surridge paragraph 10",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequently considered in Surridge [2024] UKFTT 597 (GRC), paragraph 10. This is not a finding that Oakley was overturned; appellate history not independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn27search1; turn27search0",
+      "currency_note": "Subsequently considered in Surridge [2024] UKFTT 597 (GRC), paragraph 10. This is not a finding that Oakley was overturned; appellate history not independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Surridge v Information Commissioner & Anor [2024] UKFTT 597 (GRC)",
+      "url": "https://www.bailii.org/uk/cases/UKFTT/GRC/2024/597.html",
+      "date": "2024-07-02",
+      "publisher": "First-tier Tribunal (General Regulatory Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "In information-rights proceedings, the tribunal discussed claims that technology could make searches more efficient and quoted Oakley on the limited evidential weight of chatbot answers where sources and methodology were unexplained. Useful context for distinguishing generated assertions from supported evidence.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 9\u201310",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn27search0",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Lodhia v Twelve Trees (Bromley-By-Bow) Management Company Ltd & Ors [2026] EWHC 1889 (KB)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/KB/2026/1889.html",
+      "date": "2026-07-24",
+      "publisher": "High Court (King\u2019s Bench Division)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Witnesses & evidence",
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "Following discontinuance, the court examined false documents and explanations attributing them to AI. It questioned how the tool could have produced the material without relevant prompting. Orders included indemnity costs and a civil restraint order; referrals were made for separate consideration. Attribution to AI was not accepted as a sufficient explanation.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 9, 107\u2013111 and 119",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn39search1",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Zzaman v Revenue and Customs [2025] UKFTT 539 (TC)",
+      "url": "https://www.bailii.org/uk/cases/UKFTT/TC/2025/TC09520.html",
+      "date": "2025-04-03",
+      "publisher": "First-tier Tribunal (Tax Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The tribunal dismissed a high-income child benefit charge appeal. It accepted the unrepresented appellant was honest and straightforward, but found AI-assisted authorities did not support the propositions advanced. It distinguished inaccurate or irrelevant citations from fictitious cases, showing why verification must test relevance as well as existence.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 15, 28\u201329 and 39",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn30search1",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Folarin v Immigration Services Commissioner [2026] UKFTT 135 (GRC)",
+      "url": "https://www.bailii.org/uk/cases/UKFTT/GRC/2026/135.html",
+      "date": "2026-01-29",
+      "publisher": "First-tier Tribunal (General Regulatory Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Accuracy & hallucinations",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The tribunal dismissed an appeal against refusal of registration as an immigration adviser. Among its concerns was reliance on unverified AI-derived cases in the appellant\u2019s own submissions. It considered the implications for future advice to vulnerable clients. The AI issue was one part of the broader fitness assessment.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 28 and 49\u201353",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Primary judgment PDF copy retrieved from https://websitedc.s3.amazonaws.com/documents/Folarin_v._Immigration_Services_Commissioner_UK_29_January_2026.pdf; relevant paragraphs checked 21 October 2026. Official-host copy was not directly retrieved. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn35view2; turn37view1; turn44view1",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Medpro Healthcare Ltd v Revenue and Customs [2025] UKUT 255 (TCC)",
+      "url": "https://assets.publishing.service.gov.uk/media/696a29bccbe2202b384248c6/Medpro_v_HMRC__Final_Decision_to_Parties.pdf",
+      "date": "2025-07-30",
+      "publisher": "Upper Tribunal (Tax and Chancery Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "In an appeal concerning late tax appeals and adequacy of reasons, the tribunal discussed technological tools and copying when producing decisions. It emphasised that a fair reading must show the judge\u2019s independent judgment. This is broader reasoning about judicial responsibility, not a finding that AI had generated the decision under appeal.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 40\u201345, particularly 43",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant judgment passages retrieved directly. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn35view1; turn37view0",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Evans & Ors v Revenue and Customs [2025] UKFTT 1112 (TC)",
+      "url": "https://www.bailii.org/uk/cases/UKFTT/TC/2025/TC09638.html",
+      "date": "2025-08-22",
+      "publisher": "First-tier Tribunal (Tax Chamber)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "In an interlocutory disclosure decision on the papers, the judge disclosed using AI to summarise documents. He treated summaries as drafts, checked their accuracy, did not use AI for legal research and retained responsibility for the evaluative judgment. No witness credibility assessment was involved.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 2 and 42\u201349",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn46search0",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Getty Images (US) Inc & Ors v Stability AI Ltd (Rev1) [2025] EWHC 2863 (Ch)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/Ch/2025/2863.html",
+      "date": "2025-11-04",
+      "publisher": "High Court (Chancery Division)",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Competition & IP"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The judgment records important limits to the claims pursued at trial: training and development, output copyright and database-right claims were abandoned, while trade mark, passing off and secondary copyright infringement claims remained. These limits matter when assessing claims that the litigation generally resolved the legality of AI training.",
+      "action": "Read the pleaded and abandoned claims before using the decision in AI procurement or intellectual-property advice.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 9\u201311",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn39search3",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Thaler v Comptroller-General of Patents, Designs and Trade Marks [2023] UKSC 49",
+      "url": "https://www.bailii.org/uk/cases/UKSC/2023/49.html",
+      "date": "2023-12-20",
+      "publisher": "UK Supreme Court",
+      "kind": "Judgment",
+      "jurisdiction": "UK",
+      "topics": [
+        "Competition & IP"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The Supreme Court addressed patent applications identifying DABUS as inventor. Its reasoning rejects DABUS as an inventor under the statutory scheme and rejects ownership of the machine as a sufficient basis for the applicant\u2019s entitlement. The issue concerns inventor identification and entitlement, not a general assessment of AI capability.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Statutory scheme at paragraphs 26\u201333; discussion of inventor status and ownership of DABUS",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn44search0; turn46search2",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Emotional Perception AI Ltd v Comptroller General of Patents, Designs and Trade Marks [2026] UKSC 3",
+      "url": "https://www.supremecourt.uk/cases/judgments/uksc-2024-0131",
+      "date": "2026-02-11",
+      "publisher": "UK Supreme Court",
+      "kind": "Judgment",
+      "jurisdiction": "UK",
+      "topics": [
+        "Competition & IP"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The Supreme Court rejected the Aerotel approach to the relevant patent exclusion and held that the claimed invention did not fail the article 52 invention threshold. An artificial neural network could be a computer program, while the claim involving hardware was not excluded as a computer program as such. Further patentability analysis remained distinct.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraphs 20\u201324, 97\u201399 and 113",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant judgment passages retrieved directly. Checked 21 October 2026. Currency review: Subsequent appellate or disciplinary history has not been independently checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn42view0; turn44view0; turn47view0",
+      "currency_note": "Subsequent appellate or disciplinary history has not been independently checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Comptroller General of Patents, Designs and Trade Marks v Emotional Perception AI Ltd [2024] EWCA Civ 825",
+      "url": "https://www.bailii.org/ew/cases/EWCA/Civ/2024/825.html",
+      "date": "2024-07-19",
+      "publisher": "Court of Appeal",
+      "kind": "Judgment",
+      "jurisdiction": "England & Wales",
+      "topics": [
+        "Competition & IP"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management"
+      ],
+      "summary": "The Court of Appeal restored refusal of the patent application under the computer-program exclusion. The Supreme Court later rejected the approach that led to that refusal in [2026] UKSC 3, while agreeing that the neural network was a computer program. The 2024 outcome should therefore be read with the later judgment.",
+      "action": "Review the cited passages against your research, drafting and supervision procedures.",
+      "authority": "Court or tribunal judgment; scope and procedural context matter",
+      "pinpoint": "Paragraph 1; subsequent treatment in [2026] UKSC 3 paragraphs 15, 20\u201324 and 113",
+      "status": "Monitor",
+      "currency_status": "Not assessed",
+      "verification": "Primary source checked",
+      "evidence": "Relevant indexed extracts of the primary judgment checked; direct BAILII retrieval was restricted. This is not a full judgment review. Checked 21 October 2026. Currency review: Later appellate treatment verified: [2026] UKSC 3 rejects the approach to refusal, while agreeing that the ANN is a computer program. Do not apply a blanket label to every proposition in the 2024 judgment.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn41search5; turn42view0; turn47view0",
+      "currency_note": "Later appellate treatment verified: [2026] UKSC 3 rejects the approach to refusal, while agreeing that the ANN is a computer program. Do not apply a blanket label to every proposition in the 2024 judgment.",
+      "currency_source": "https://www.supremecourt.uk/cases/judgments/uksc-2024-0131",
+      "currency_status_proposal": "Overturned / varied on appeal",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Guidelines on prohibited AI practices",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act",
+      "date": "2025-02-04",
+      "publisher": "European Commission",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Commission interpretation of AI Act prohibitions, including manipulation and social scoring. This is non-binding guidance, with authoritative interpretation reserved to the courts.",
+      "action": "Screen proposed EU-facing uses and client instructions against the actual prohibition and its conditions. Do not assume all UK practices are in scope.",
+      "authority": "Non-binding Commission guidance",
+      "pinpoint": "Overview and downloadable guidelines",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Published before 2026 AI Act amendments; check affected propositions against consolidated legislation before reliance.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn13search1",
+      "currency_note": "Published before 2026 AI Act amendments; check affected propositions against consolidated legislation before reliance.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Guidelines on the definition of an AI system",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application",
+      "date": "2025-02-06",
+      "publisher": "European Commission",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Explains the AI Act definition to help distinguish AI systems from other software. Classification is the starting point for assessing the obligations attaching to a deployment.",
+      "action": "Record why each EU-facing tool is or is not an AI system; consider the organisation\u2019s role separately.",
+      "authority": "Non-binding Commission guidance",
+      "pinpoint": "Guidelines download; Commission AI literacy FAQ explanation",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: 2025 guidance; review against 2026 amendments and any updated interpretation.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn29search0; turn40view0",
+      "currency_note": "2025 guidance; review against 2026 amendments and any updated interpretation.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "General-Purpose AI Code of Practice \u2014 final code",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "date": "2025-07-10",
+      "publisher": "European Commission / independent expert chairs",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Supervision & governance",
+        "Competition & IP",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Voluntary code supporting GPAI provider compliance through transparency, copyright, and safety and security chapters. It is relevant to supplier assurance and clients developing models.",
+      "action": "Ask model suppliers how they document applicable obligations and code adherence. Do not treat signature as general certification or automatically apply provider duties to users.",
+      "authority": "Voluntary code supporting EU AI Act compliance",
+      "pinpoint": "Transparency, Copyright, Safety and Security chapters",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn29search3",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "supersedes_url": "https://digital-strategy.ec.europa.eu/en/library/third-draft-general-purpose-ai-code-practice-published-written-independent-experts",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Guidelines on the scope of obligations for GPAI providers",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
+      "date": "2025-07-18",
+      "publisher": "European Commission",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Supervision & governance",
+        "Competition & IP"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Guidance addresses GPAI models, provider status, market placement, modifications, open-source exemptions and enforcement expectations.",
+      "action": "For firms building or modifying models, assess provider status before assuming ordinary deployer obligations are sufficient.",
+      "authority": "Non-binding Commission interpretation",
+      "pinpoint": "Scope guidelines and four topics in accompanying explanation",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Do not repeat original implementation dates without checking 2026 amendments; scope analysis remains subject to legislation and judicial interpretation.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn43search3; turn43search5",
+      "currency_note": "Do not repeat original implementation dates without checking 2026 amendments; scope analysis remains subject to legislation and judicial interpretation.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI literacy \u2014 questions and answers",
+      "url": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+      "date": null,
+      "publisher": "European Commission",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Competence & training",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Explains role- and risk-sensitive AI literacy, training records and practical programmes. The retrieved page discusses amended Article 4, while some older official FAQs retain earlier wording.",
+      "action": "Use to design proportionate staff training, but resolve the differing official wording against amended legislation before stating the legal test.",
+      "authority": "Commission interpretive FAQ",
+      "pinpoint": "Definitions; Compliance; Digital Omnibus amendments",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Primary-page inconsistency flagged: current FAQ describes amended Article4 and no mandated specific literacy level; Service Desk FAQ retains sufficient-level wording. Requires editorial legal check; publication day not established.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn40view0",
+      "currency_note": "Primary-page inconsistency flagged: current FAQ describes amended Article4 and no mandated specific literacy level; Service Desk FAQ retains sufficient-level wording. Requires editorial legal check; publication day not established.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Living repository of AI literacy practices",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/repository-ai-literacy-practices",
+      "date": null,
+      "publisher": "European Commission",
+      "kind": "Report / policy",
+      "jurisdiction": "EU",
+      "topics": [
+        "Competence & training",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Collection of organisational approaches to staff AI literacy. The Commission says copying a practice does not automatically establish compliance.",
+      "action": "Use examples to plan role-specific training and keep evidence of what staff learned.",
+      "authority": "Official practice repository; not compliance certification",
+      "pinpoint": "Repository and Article4 FAQ on repository use",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Living resource; exact publication date not established. Check accompanying legal FAQ and amended Article4.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn13search2; turn40view0",
+      "currency_note": "Living resource; exact publication date not established. Check accompanying legal FAQ and amended Article4.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Guidelines on transparency obligations for AI providers and deployers",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+      "date": "2026-07-20",
+      "publisher": "European Commission",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Client care & transparency",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Guidance on Article 50 transparency obligations for providers and deployers, including AI-generated content.",
+      "action": "Assess EU-facing chatbots, synthetic media and public-interest publications separately, including applicable exceptions.",
+      "authority": "Commission guidance on Article50",
+      "pinpoint": "Overview and implementation guidelines download",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn45search2",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Code of Practice on Transparency of AI-generated Content",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+      "date": null,
+      "publisher": "European Commission / independent expert chairs",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Client care & transparency",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Code supports marking and labelling of AI-generated content, including deepfakes and certain publications, under Article 50.",
+      "action": "Map publishing workflows and supplier capabilities to applicable marking and disclosure obligations; avoid a blanket claim that all AI-assisted text must be labelled.",
+      "authority": "Code supporting AI Act transparency compliance",
+      "pinpoint": "Overview; Articles50(2), (4), (5)",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Official signing FAQ identifies June2026 publication; exact day not established so date left null.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn45search4; turn45search3",
+      "currency_note": "Official signing FAQ identifies June2026 publication; exact day not established so date left null.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Digital Omnibus on AI \u2014 Regulation (EU) 2026/1744",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744",
+      "date": "2026-07-24",
+      "publisher": "European Parliament and Council",
+      "kind": "Report / policy",
+      "jurisdiction": "EU",
+      "topics": [
+        "Supervision & governance",
+        "Competence & training"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Amending regulation concerning implementation of the AI Act and related regulations. This record identifies the legislative update rather than summarising every amendment.",
+      "action": "Recheck timelines and Article4 propositions in existing compliance materials against the amended text.",
+      "authority": "EU legislation; taxonomy should be Legislation",
+      "pinpoint": "Official Journal; adopted8July2026, published24July2026",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: EUR-Lex search identifies in-force regulation. Full article-by-article legal verification remains pending; official record and title verified. Original AI Act not wholly superseded.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn45search0; turn45search1",
+      "currency_note": "EUR-Lex search identifies in-force regulation. Full article-by-article legal verification remains pending; official record and title verified. Original AI Act not wholly superseded.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI development: CNIL first recommendations",
+      "url": "https://www.cnil.fr/en/ai-cnil-publishes-its-first-recommendations-development-artificial-intelligence-systems",
+      "date": "2024-06-07",
+      "publisher": "CNIL",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Data protection",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "First development recommendations address GDPR considerations in creating AI systems, including purpose, data collection and impact assessment. Later CNIL publications extend this work.",
+      "action": "Use the newer consolidated development materials for implementation; retain this announcement to understand the development of guidance.",
+      "authority": "French data protection regulator guidance",
+      "pinpoint": "First recommendations announcement",
+      "status": "Historical / superseded",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Historical first tranche; supplemented by 2025\u201326 recommendations rather than proof that all underlying advice was withdrawn.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn13search6",
+      "currency_note": "Historical first tranche; supplemented by 2025\u201326 recommendations rather than proof that all underlying advice was withdrawn.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI and GDPR: new CNIL recommendations",
+      "url": "https://cnil.fr/en/ai-and-gdpr-cnil-publishes-new-recommendations-support-responsible-innovation",
+      "date": null,
+      "publisher": "CNIL",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Data protection",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "CNIL explains its further recommendations supporting AI development while protecting personal data and individual rights.",
+      "action": "Review linked technical guidance when advising AI developers; distinguish French regulatory interpretation from UK ICO guidance.",
+      "authority": "French regulator publication",
+      "pinpoint": "Announcement and linked recommendations",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: 2025 publication established by context; exact day not established. Later development guidance and checklist should also be checked.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn29search20",
+      "currency_note": "2025 publication established by context; exact day not established. Later development guidance and checklist should also be checked.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Legitimate interests for AI development",
+      "url": "https://cnil.fr/fr/base-legale-interet-legitime-developpement-systeme",
+      "date": "2025-06-19",
+      "publisher": "CNIL",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Data protection"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Guidance on evaluating legitimate interests for AI development, including necessity, balancing risks and safeguards. The French original is used to avoid confusing its date with later English translation.",
+      "action": "Document purpose, necessity and balancing assessment; public availability of data does not itself settle lawfulness.",
+      "authority": "French data protection regulator guidance",
+      "pinpoint": "Legitimate-interest assessment and examples",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn29search24; turn29search4",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI development: CNIL recommendations for GDPR compliance",
+      "url": "https://www.cnil.fr/fr/developpement-des-systemes-dia-les-recommandations-de-la-cnil-pour-respecter-le-rgpd",
+      "date": "2025-07-22",
+      "publisher": "CNIL",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Data protection",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Consolidated development guidance covers AI training and personal-data safeguards. It expressly concerns development rather than operational deployment.",
+      "action": "Use in development and procurement due diligence; separately assess the firm\u2019s deployment and processing responsibilities.",
+      "authority": "French data protection regulator guidance",
+      "pinpoint": "Development recommendations; scope",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: French version dated22July2025. English version appears later; dates must not be silently conflated.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn29search9; turn29search14",
+      "currency_note": "French version dated22July2025. English version appears later; dates must not be silently conflated.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Development of AI systems \u2014 CNIL checklist",
+      "url": "https://www.cnil.fr/sites/default/files/2026-01/ai_checklist.pdf",
+      "date": null,
+      "publisher": "CNIL",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "EU",
+      "topics": [
+        "Data protection",
+        "Procurement & security",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Checklist for legal, privacy, security and development teams covering personal-data processing during AI development. It excludes AI Act compliance from its scope.",
+      "action": "Use as a structured due-diligence aid for in-house development and supplier questions, alongside separate AI Act and UK-law checks.",
+      "authority": "French data protection regulator checklist",
+      "pinpoint": "Checklist introduction and scope",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: 2026-01 URL path and indexed document verified; exact publication date not established. Do not represent it as a complete AI compliance checklist.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn13search9",
+      "currency_note": "2026-01 URL path and indexed document verified; exact publication date not established. Do not represent it as a complete AI compliance checklist.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Code of Practice for the Cyber Security of AI",
+      "url": "https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai",
+      "date": "2025-01-31",
+      "publisher": "Department for Science, Innovation and Technology",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Procurement & security",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Voluntary baseline for secure development and deployment, addressing AI-specific risks such as poisoning and prompt injection alongside wider security practices.",
+      "action": "Use in supplier assurance and deployment risk assessments; require evidence of controls rather than a bare promise to comply.",
+      "authority": "Voluntary government code",
+      "pinpoint": "Code introduction and principles",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Later ETSI work builds on this area. No explicit withdrawal established; do not imply this code alone is a certification.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn13search5",
+      "currency_note": "Later ETSI work builds on this area. No explicit withdrawal established; do not imply this code alone is a certification.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Guidelines for secure AI system development",
+      "url": "https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development",
+      "date": "2023-11-27",
+      "publisher": "National Cyber Security Centre and international partners",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Procurement & security",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Guidance spans secure design, development, deployment, operation and maintenance, including systems built using external models or APIs.",
+      "action": "Ask suppliers about threat models, supply chains, deployment controls, logging and update handling; include security throughout the tool lifecycle.",
+      "authority": "Official cybersecurity guidance",
+      "pinpoint": "Executive summary; four lifecycle sections; version1.0",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn31search3",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Prompt injection is not SQL injection",
+      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "date": "2025-12-08",
+      "publisher": "National Cyber Security Centre",
+      "kind": "Commentary",
+      "jurisdiction": "UK",
+      "topics": [
+        "Procurement & security",
+        "Confidentiality & privilege"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Explains why LLMs cannot reliably separate instructions from untrusted data and why prompt injection requires managing residual risk and constraining possible actions.",
+      "action": "Keep document-processing AI away from unrestricted email, file changes and other consequential tools; use deterministic permissions and review.",
+      "authority": "Official technical commentary, not a legal rule",
+      "pinpoint": "How can we build secure AI systems?",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn34search2",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Introduction to AI assurance",
+      "url": "https://www.gov.uk/government/publications/introduction-to-ai-assurance",
+      "date": "2024-02-12",
+      "publisher": "Department for Science, Innovation and Technology",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Introduces assurance techniques and technical standards for responsible AI development and deployment.",
+      "action": "Specify evidence needed before tool approval, including testing, impact assessment and ongoing monitoring, rather than relying on marketing claims.",
+      "authority": "Government introductory guidance",
+      "pinpoint": "Details; assurance mechanisms and standards",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn31search0",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI Management Essentials \u2014 consultation proposal",
+      "url": "https://www.gov.uk/government/consultations/ai-management-essentials-tool",
+      "date": "2024-11-06",
+      "publisher": "Department for Science, Innovation and Technology",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Consultation on a self-assessment tool for organisational AI governance. The subsequent response states that AIME will not be published.",
+      "action": "Do not describe this consultation prototype as a current government certification or procurement requirement.",
+      "authority": "Closed government consultation",
+      "pinpoint": "Outcome and update history",
+      "status": "Historical / superseded",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: 6February2026 response abandons publication of AIME and refocuses future SME deployment guidance.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn31search2; turn34search1",
+      "currency_note": "6February2026 response abandons publication of AIME and refocuses future SME deployment guidance.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI Management Essentials \u2014 government response",
+      "url": "https://www.gov.uk/government/consultations/ai-management-essentials-tool/outcome/guidance-for-using-the-ai-management-essentials-tool-government-response",
+      "date": "2026-02-06",
+      "publisher": "Department for Science, Innovation and Technology",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Government will not publish AIME or make it a procurement requirement. It plans more focused foundational governance guidance for SME AI deployment.",
+      "action": "Correct internal resources that present AIME as a finished tool; monitor replacement guidance.",
+      "authority": "Government consultation response",
+      "pinpoint": "Executive summary; Proportionality and procurement response",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn34search1; turn31search2",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "supersedes_url": "https://www.gov.uk/government/consultations/ai-management-essentials-tool",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Generative AI Framework for HMG \u2014 withdrawn",
+      "url": "https://www.gov.uk/government/publications/generative-ai-framework-for-hmg",
+      "date": "2024-01-18",
+      "publisher": "Cabinet Office / Government Digital Service",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Earlier government framework for safe generative AI use. The publisher marks it withdrawn; the broader AI Playbook follows it.",
+      "action": "Use for historical context only and consult the AI Playbook for current government guidance.",
+      "authority": "Withdrawn government guidance",
+      "pinpoint": "Withdrawn banner and publication details",
+      "status": "Historical / superseded",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: Publisher explicitly marks withdrawn. AI Playbook describes itself as expanded, retitled updated guidance.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn43search0; turn38search5",
+      "currency_note": "Publisher explicitly marks withdrawn. AI Playbook describes itself as expanded, retitled updated guidance.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "AI Playbook for the UK Government",
+      "url": "https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government",
+      "date": "2025-02-10",
+      "publisher": "Government Digital Service",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security",
+        "Competence & training"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Government guidance on selecting, buying and deploying AI safely, securely and effectively. Useful for public-sector client work and as a governance reference.",
+      "action": "Use procurement and assurance sections for government engagements; do not treat civil-service-specific instructions as universal law-firm rules.",
+      "authority": "Government guidance for civil servants and government organisations",
+      "pinpoint": "Ten principles; selection, buying and deployment",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn38search5; turn31search4",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "supersedes_url": "https://www.gov.uk/government/publications/generative-ai-framework-for-hmg",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Artificial intelligence in UK financial services \u2014 2024 survey",
+      "url": "https://www.bankofengland.co.uk/report/2024/artificial-intelligence-in-uk-financial-services-2024",
+      "date": "2024-11-21",
+      "publisher": "Bank of England / Financial Conduct Authority",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Survey records financial firms\u2019 AI adoption, third-party dependence, governance and perceived risks. It describes a point-in-time sample rather than new regulatory obligations.",
+      "action": "Use to inform financial-services client risk discussions; keep survey figures dated and separate from binding requirements.",
+      "authority": "Joint regulator research report",
+      "pinpoint": "Executive summary: third-party exposure and governance",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: 2024 survey; statistics remain historical even though the report is available. Not a current adoption census.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn31search5",
+      "currency_note": "2024 survey; statistics remain historical even though the report is available. Not a current adoption census.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "The Mills Review: AI and the future of retail financial services",
+      "url": "https://www.fca.org.uk/publications/corporate-documents/mills-review",
+      "date": "2026-07-06",
+      "publisher": "Financial Conduct Authority",
+      "kind": "Report / policy",
+      "jurisdiction": "UK",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security",
+        "Client care & transparency",
+        "Competition & IP"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Review considers agentic finance, consumer outcomes, competition and fraud risks, with recommendations to the FCA about its response.",
+      "action": "Track follow-on decisions for financial-services clients; distinguish recommendations from adopted regulatory requirements.",
+      "authority": "FCA-commissioned review and recommendations",
+      "pinpoint": "Purpose; key findings; recommendations",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn43view0; turn40view3",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "supersedes_url": "https://www.fca.org.uk/publications/calls-input/review-long-term-impact-ai-retail-financial-services-mills-review",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Generative AI Profile \u2014 NIST AI 600-1",
+      "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+      "date": "2024-07-26",
+      "publisher": "National Institute of Standards and Technology",
+      "kind": "Report / policy",
+      "jurisdiction": "US",
+      "topics": [
+        "Supervision & governance",
+        "Procurement & security"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Voluntary cross-sector companion to the AI Risk Management Framework for identifying and managing generative-AI risks.",
+      "action": "Adapt risk-management actions to legal workflows, recording testing, ownership and residual risk; do not present it as UK regulatory approval.",
+      "authority": "Voluntary US technical framework",
+      "pinpoint": "Abstract; NIST AI600-1",
+      "status": "Monitor",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: NIST says the underlying AI RMF1.0 is being revised. No withdrawal of this profile established. Check future versions.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn31search6; turn31search7",
+      "currency_note": "NIST says the underlying AI RMF1.0 is being revised. No withdrawal of this profile established. Check future versions.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Secure development practices for generative AI \u2014 NIST SP 800-218A",
+      "url": "https://www.nist.gov/publications/secure-software-development-practices-generative-ai-and-dual-use-foundation-models-ssdf",
+      "date": "2024-07-26",
+      "publisher": "National Institute of Standards and Technology",
+      "kind": "Report / policy",
+      "jurisdiction": "US",
+      "topics": [
+        "Procurement & security",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "AI-specific companion to the Secure Software Development Framework, intended for model producers, system producers and acquirers.",
+      "action": "Use as a supplier-development assurance reference when commissioning AI integrations; request relevant evidence rather than checklist assertions.",
+      "authority": "US technical guidance",
+      "pinpoint": "Abstract; SSDF Community Profile",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn31search8",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    },
+    {
+      "title": "Privacy-protective generative AI principles \u2014 Canada",
+      "url": "https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/",
+      "date": "2023-12-07",
+      "publisher": "Canadian federal, provincial and territorial privacy authorities",
+      "kind": "Regulatory guidance",
+      "jurisdiction": "International",
+      "topics": [
+        "Data protection",
+        "Client care & transparency",
+        "Supervision & governance"
+      ],
+      "roles": [
+        "COLP / law firm",
+        "Barrister",
+        "Chambers management",
+        "In-house lawyer"
+      ],
+      "summary": "Canadian authorities set principles for developers, providers and users, addressing lawful processing, necessity, transparency, safeguards and accountability.",
+      "action": "Use for Canadian client matters and comparative procurement questions; assess the applicable Canadian statute and do not transplant the guidance as UK law.",
+      "authority": "Joint Canadian regulator guidance",
+      "pinpoint": "Intended audience; principles1\u20133; accountability",
+      "status": "Current",
+      "verification": "Primary source checked",
+      "evidence": "Official publisher source retrieved in research on 21 October 2026. Scope and publication information checked; not a comprehensive legal citator review. Currency review: No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "editorial": "Machine-assisted; editorial review pending",
+      "research_ref": "turn38search8",
+      "currency_note": "No explicit withdrawal or replacement found in this sweep. Current denotes the published resource, not a guarantee of legal applicability or completeness.",
+      "checked_at": "2026-10-21T00:00:00Z"
+    }
+  ],
+  "note": "Expanded primary-source research. Coverage is not exhaustive; source verification and currency limitations are stated per record.",
+  "sources": [
+    "SRA",
+    "BSB",
+    "Bar Council",
+    "Judiciary",
+    "BAILII",
+    "Law Society",
+    "ICO",
+    "CMA",
+    "DRCF",
+    "DSIT",
+    "EDPB",
+    "ABA",
+    "Matthew Lee",
+    "Damien Charlotin"
+  ]
+}

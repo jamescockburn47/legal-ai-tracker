@@ -1,0 +1,7 @@
+import audit from '@/data/summary-accuracy-audit.json';
+import {db,json,isOwner,isUpdater,sameOrigin,errorResponse} from '@/lib/server';
+import {articleSchema,stage,review} from '@/lib/editorial';
+import {z} from 'zod';
+export const dynamic='force-dynamic';
+export async function GET(req:Request){if(!isOwner(req))return json({error:'Not authorised'},403);const rows=(await db().prepare('SELECT * FROM editorial_proposals ORDER BY created DESC LIMIT 300').all<any>()).results;return json({audit,proposals:rows.map(p=>({...p,before:JSON.parse(p.before),payload:JSON.parse(p.payload)}))});}
+export async function POST(req:Request){try{const owner=isOwner(req);if(!owner&&!await isUpdater(req))return json({error:'Not authorised'},403);if(owner)sameOrigin(req);const raw=await req.text();if(raw.length>100000)return json({error:'Too large'},413);const p=JSON.parse(raw);if(p.op==='proposeArticle'){const a=articleSchema.parse(p.article);const reason=z.string().min(10).max(3000).parse(p.reason);return json(await stage('article',a.id,a.title,a,reason,z.string().max(5000).parse(p.verification||'Independent second check not recorded.')));}if(!owner)return json({error:'Only the owner can approve or reject publication'},403);const action=z.object({op:z.enum(['approve','reject']),id:z.string().uuid()}).parse(p);const result=await review(action.id,action.op);return json(result,result.status||200);}catch(e){return errorResponse(e);}}

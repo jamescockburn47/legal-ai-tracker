@@ -1,0 +1,59 @@
+{
+  "id": "privilege",
+  "title": "Synthetic long-form test article",
+  "topics": [
+    "Supervision & governance"
+  ],
+  "tasks": [
+    "supervision"
+  ],
+  "background": "Synthetic test background. Synthetic test background. Synthetic test background. Synthetic test background. Synthetic test background. Synthetic test background. Synthetic test background. Synthetic test background. ",
+  "currentPosition": "Synthetic test position. Synthetic test position. Synthetic test position. Synthetic test position. Synthetic test position. Synthetic test position. Synthetic test position. Synthetic test position. ",
+  "commentary": "Synthetic test commentary. Synthetic test commentary. Synthetic test commentary. Synthetic test commentary. Synthetic test commentary. Synthetic test commentary. Synthetic test commentary. Synthetic test commentary. ",
+  "practicalSteps": [
+    "Test fixture only; no legal proposition."
+  ],
+  "overlaps": "Test only",
+  "limitations": "Synthetic fixture, not legal analysis.",
+  "sources": [
+    {
+      "title": "Example test source",
+      "url": "https://example.org/test",
+      "locator": "Test section"
+    }
+  ],
+  "checkedAt": "2026-10-22",
+  "sections": [
+    {
+      "id": "test-one",
+      "title": "First test section",
+      "paragraphs": [
+        {
+          "text": "This paragraph tests reference preservation only.",
+          "sourceIds": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "test-two",
+      "title": "Second test section",
+      "paragraphs": [
+        {
+          "text": "This paragraph tests section preservation only.",
+          "sourceIds": [
+            1
+          ]
+        }
+      ]
+    }
+  ],
+  "maintenance": {
+    "scope": "Test only",
+    "triggers": [
+      "Fixture changes"
+    ],
+    "nextReview": "2026-10-29"
+  }
+}

@@ -1,0 +1,4 @@
+import {Webhook} from 'svix';
+import {db,json,runtimeEnv} from '@/lib/server';
+export const dynamic='force-dynamic';
+export async function POST(req:Request){const secret=runtimeEnv().RESEND_WEBHOOK_SECRET;if(!secret)return json({error:'Not configured'},503);const raw=await req.text();if(raw.length>100000)return json({error:'Too large'},413);let event:any;try{event=new Webhook(secret).verify(raw,{'svix-id':req.headers.get('svix-id')||'','svix-timestamp':req.headers.get('svix-timestamp')||'','svix-signature':req.headers.get('svix-signature')||''});}catch{return json({error:'Invalid signature'},401);}if(['email.bounced','email.complained'].includes(event.type)){for(const email of event.data?.to||[]){await db().prepare("UPDATE mail_subscriptions SET status='suppressed',confirm_hash=NULL WHERE lower(email)=lower(?)").bind(email).run();}}return json({ok:true});}

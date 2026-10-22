@@ -1,0 +1,3 @@
+let visit='',enabled=false,referrer='direct';
+export function startAnalytics(){if(visit)return;visit=crypto.randomUUID();enabled=true;try{const host=new URL(document.referrer).hostname;referrer=host===location.hostname?'internal':/(^|\.)linkedin\.com$/.test(host)?'linkedin':/(google|bing|duckduckgo|yahoo)\./.test(host)?'search':'external';}catch{}track('visit');}
+export function track(event:string,target=''){if(!enabled||!visit)return;void fetch('/api/analytics',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:crypto.randomUUID(),visit,event,target,referrer}),keepalive:true}).catch(()=>{});}

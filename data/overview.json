@@ -1,0 +1,1074 @@
+{
+  "profiles": [
+    {
+      "id": "solicitor",
+      "summary": "Existing professional duties continue to govern AI-assisted work. The SRA's August 2026 warning focuses on unreliable outputs and client confidentiality. A solicitor remains responsible for the work delivered; using AI does not transfer that responsibility to a supplier or supervisor. Individual practitioner responsibilities. Firm governance and COLP duties are separate, overlapping layers.",
+      "priorities": [
+        {
+          "title": "Verify the work",
+          "text": "Verify authorities, factual assertions and legal reasoning before relying on AI-assisted work.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/"
+        },
+        {
+          "title": "Protect client information",
+          "text": "Check the actual contractual and technical safeguards before entering client information; a paid account alone is not assurance.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/"
+        },
+        {
+          "title": "Work within supervision arrangements",
+          "text": "Follow your firm's supervision and approved-use arrangements, and escalate errors or inappropriate disclosure promptly.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "SRA Misuse of AI warning notice",
+          "url": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/",
+          "locator": "AI hallucinations \u2013 relevant considerations; confidentiality; Summary \u2014 Regulator warning interpreting existing obligations"
+        },
+        {
+          "title": "SRA Effective supervision",
+          "url": "https://www.sra.org.uk/solicitors/guidance/effective-supervision-guidance/",
+          "locator": "Appropriate supervision arrangements; Ensuring supervision is effective \u2014 Regulatory guidance; expressly not new standards"
+        }
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "barrister",
+      "summary": "The BSB's May 2026 guidance applies existing Handbook duties to AI use. Personal responsibility, duties to the court and competent service remain central. The guidance also treats AI as outsourcing and addresses risks arising from other people's AI-assisted material. BSB regulatory guidance and Bar Council professional commentary have different status.",
+      "priorities": [
+        {
+          "title": "Personal responsibility",
+          "text": "Check outputs before incorporating them into advice or submissions.",
+          "sourceUrl": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf"
+        },
+        {
+          "title": "Confidentiality and client benefit",
+          "text": "Assess confidentiality, competence and client benefit for the proposed use.",
+          "sourceUrl": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf"
+        },
+        {
+          "title": "Disclosure depends on context",
+          "text": "Consider whether disclosure of AI use is required by context, a request, applicable rules or its material effect on the service.",
+          "sourceUrl": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "title": "BSB Guidance on the use of Artificial Intelligence and Other Technologies",
+          "url": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf",
+          "locator": "Sections 1, 3\u20136; pp2\u20133,7\u201310,12\u201314 \u2014 Regulator guidance explaining existing Handbook duties"
+        },
+        {
+          "title": "Bar Council updated guidance on generative AI for the Bar",
+          "url": "https://www.barcouncil.org.uk/resource/updated-guidance-on-generative-ai-for-the-bar.html",
+          "locator": "Status statement and overview \u2014 Professional body material; expressly not BSB Handbook I6.4 guidance"
+        }
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "inhouse",
+      "summary": "An employer's AI policy does not displace a solicitor's professional duties. Independence, competence, supervision and confidentiality continue to apply. Identify the client and protect the legal function's information: not every communication involving an in-house solicitor is privileged. This profile addresses SRA-regulated in-house solicitors. Employed barristers should also consult the barrister profile; the employer is not automatically an SRA-regulated firm.",
+      "priorities": [
+        {
+          "title": "Separate legal information",
+          "text": "Separate legal advice and restricted matter material from general corporate AI workspaces.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/guidance/understanding-in-house-solicitors-professional-obligations-employer/"
+        },
+        {
+          "title": "Explain professional constraints",
+          "text": "Explain professional constraints to business stakeholders before deployment.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/guidance/understanding-in-house-solicitors-professional-obligations-employer/"
+        },
+        {
+          "title": "Check centrally purchased tools",
+          "text": "Assess access permissions and supervision within the legal team, including tools procured centrally by the business.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/guidance/understanding-in-house-solicitors-professional-obligations-employer/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "SRA Understanding in-house solicitors' professional obligations as an employer",
+          "url": "https://www.sra.org.uk/solicitors/guidance/understanding-in-house-solicitors-professional-obligations-employer/",
+          "locator": "The regulation of solicitors; What you can expect from your regulated in-house solicitors \u2014 Regulator guidance"
+        },
+        {
+          "title": "SRA Misuse of AI warning notice",
+          "url": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/",
+          "locator": "AI hallucinations \u2013 relevant considerations; confidentiality; Summary \u2014 Regulator warning interpreting existing obligations"
+        }
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "colp",
+      "summary": "The COLP's role is firm-wide compliance assurance. Paragraph 9.1 of the Firms Code requires reasonable steps towards the specified compliance and reporting outcomes. AI risks sit within that framework; appointing a COLP does not remove managers' or individual practitioners' responsibilities. Use only for the formally appointed COLP role. The separate COFA responsibilities are not covered by this summary.",
+      "priorities": [
+        {
+          "title": "Assurance and evidence",
+          "text": "Check how the firm demonstrates that AI controls and supervision work in practice.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/"
+        },
+        {
+          "title": "Escalation",
+          "text": "Maintain an escalation route for inaccurate outputs, confidentiality incidents and repeated control failures.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/"
+        },
+        {
+          "title": "Reporting thresholds",
+          "text": "Assess reportability under the actual SRA thresholds; an AI incident is not automatically a reportable serious breach.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "SRA Responsibilities of COLPs and COFAs",
+          "url": "https://www.sra.org.uk/solicitors/guidance/responsibilities-of-colps-and-cofas/",
+          "locator": "General \u2014 Foundational regulator guidance outside three-year publication window; read with current Code"
+        },
+        {
+          "title": "SRA Code of Conduct for Firms",
+          "url": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/",
+          "locator": "Paragraphs 2.1\u20132.3,4.3\u20134.4,8.1,9.1 \u2014 Current regulator Code page checked; rules"
+        },
+        {
+          "title": "SRA Misuse of AI warning notice",
+          "url": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/",
+          "locator": "AI hallucinations \u2013 relevant considerations; confidentiality; Summary \u2014 Regulator warning interpreting existing obligations"
+        }
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "firm-compliance",
+      "summary": "The firm's governance, records and supervision obligations shape the control programme. A risk or compliance job title does not itself make its holder the COLP. Responsibilities should be allocated between managers, the COLP, supervisors and operational teams. Suggested operational controls, not a regulator-prescribed checklist or a transfer of COLP duties.",
+      "priorities": [
+        {
+          "title": "Tool and supplier controls",
+          "text": "Document permitted tools and uses, ownership, supplier review and access controls.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/"
+        },
+        {
+          "title": "Training and checks",
+          "text": "Test whether staff understand when human checks and escalation are needed.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/"
+        },
+        {
+          "title": "Record decisions",
+          "text": "Keep evidence of training, approvals and monitoring proportionate to the risks and the firm's compliance obligations.",
+          "sourceUrl": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "SRA Code of Conduct for Firms",
+          "url": "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/",
+          "locator": "Paragraphs 2.1\u20132.3,4.3\u20134.4,8.1,9.1 \u2014 Current regulator Code page checked; rules"
+        },
+        {
+          "title": "SRA Effective supervision",
+          "url": "https://www.sra.org.uk/solicitors/guidance/effective-supervision-guidance/",
+          "locator": "Appropriate supervision arrangements; Ensuring supervision is effective \u2014 Regulatory guidance; expressly not new standards"
+        },
+        {
+          "title": "Law Society Using artificial intelligence in legal practice",
+          "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/using-artificial-intelligence-in-legal-practice",
+          "locator": "Professional duties; Types of AI, access to AI and risk \u2014 Professional practice note; primary publisher indexed text checked; direct fetch failed"
+        }
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "chambers",
+      "summary": "Chambers-wide AI deployment needs controls suited to shared systems and independent practices. The BSB guidance highlights procurement, data access and governance, including the risk of one barrister's client information becoming accessible to another. Chambers management is not the SRA COLP role. Governance priorities for chambers. Identify the actual duty-holder and relevant practice structure before applying any Handbook rule to a manager personally.",
+      "priorities": [
+        {
+          "title": "Separate members\u2019 data",
+          "text": "Test isolation between members' client information, particularly where members act for opposing parties.",
+          "sourceUrl": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf"
+        },
+        {
+          "title": "Provider settings",
+          "text": "Set appropriate provider access, retention, deletion and shared-assistant settings.",
+          "sourceUrl": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf"
+        },
+        {
+          "title": "Shared procedures",
+          "text": "Agree practical acceptable-use, training and incident procedures while preserving each barrister's professional responsibility.",
+          "sourceUrl": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "title": "BSB Guidance on the use of Artificial Intelligence and Other Technologies",
+          "url": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf",
+          "locator": "Sections 1, 3\u20136; pp2\u20133,7\u201310,12\u201314 \u2014 Regulator guidance explaining existing Handbook duties"
+        },
+        {
+          "title": "Bar Council updated guidance on generative AI for the Bar",
+          "url": "https://www.barcouncil.org.uk/resource/updated-guidance-on-generative-ai-for-the-bar.html",
+          "locator": "Status statement and overview \u2014 Professional body material; expressly not BSB Handbook I6.4 guidance"
+        }
+      ],
+      "checkedAt": "2026-10-21"
+    }
+  ],
+  "watch": [
+    {
+      "id": "ico-agentic-ai-2026",
+      "title": "ICO agentic AI call for evidence",
+      "status": "Open consultation",
+      "summary": "The ICO is seeking evidence on agentic AI before finalising guidance, covering security, transparency, accountability, automated decisions, fairness and lawful processing. This is a consultation, not final guidance.",
+      "implication": "Consider responding with practical experience of agent permissions, approval points, audit trails and handling of personal data. Monitor the final guidance before revising organisational policy.",
+      "deadline": "2026-11-20",
+      "dateLabel": "Response deadline",
+      "url": "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/10/agentic-ai-call-for-evidence",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers",
+        "inhouse"
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "cjc-court-documents-2026",
+      "title": "CJC review of AI in preparing court documents",
+      "status": "Closed \u2014 awaiting outcome",
+      "summary": "The CJC's June update identifies witness statements, expert evidence and litigants in person as continuing areas of work. Its direction remains provisional; the consultation findings do not themselves amend procedural rules.",
+      "implication": "Litigators and advocates should watch for final recommendations and any subsequent rule changes, particularly on the authenticity of witness evidence and transparency around expert evidence.",
+      "deadline": null,
+      "dateLabel": "Response deadline",
+      "url": "https://www.judiciary.uk/related-offices-and-bodies/advisory-bodies/cjc/current-work/use-of-ai-in-preparing-court-documents/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp",
+        "chambers"
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "ai-consent-misuse-bill-2026",
+      "title": "Artificial Intelligence (Consent and Misuse) Bill",
+      "status": "Proposed legislation",
+      "summary": "This private member's presentation bill concerns consent for AI-generated likenesses, civil actions, offences and provider duties. First reading took place on 20 October 2026. The long title describes its intended scope; detailed provisions have not been assessed.",
+      "implication": "Relevant particularly to practitioners advising on privacy, media, reputation and synthetic content. Do not treat a proposed consent requirement as an existing duty or assume the bill will pass.",
+      "deadline": "2026-11-27",
+      "dateLabel": "Second reading (scheduled)",
+      "url": "https://bills.parliament.uk/bills/4310",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse"
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "eu-cada-2026",
+      "title": "EU Cloud and AI Development Act proposal",
+      "status": "Proposed legislation",
+      "summary": "The Commission's June 2026 proposal addresses cloud and AI infrastructure, data-centre capacity and a proposed EU cloud/AI sovereignty assessment framework. It is a legislative proposal, not an operative UK professional requirement.",
+      "implication": "Potentially relevant to advisers on EU cloud procurement, technology suppliers and public-sector projects. Monitor amendments and territorial scope before treating the proposed framework as a procurement requirement.",
+      "deadline": null,
+      "dateLabel": "Response deadline",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "firm-compliance"
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "eu-high-risk-guidelines-2026",
+      "title": "EU AI Act high-risk classification guidelines",
+      "status": "Closed \u2014 awaiting outcome",
+      "summary": "The consultation on draft high-risk classification guidelines closed on 23 July 2026 after an extension. The draft concerns when systems fall within the AI Act's high-risk categories; it is not the final guidance.",
+      "implication": "Relevant to EU-facing advice, procurement and deployments. Check the final guidance and amended legislation together; this watch item does not establish the operative application deadlines for a particular system.",
+      "deadline": null,
+      "dateLabel": "Response deadline",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-classification-high-risk-artificial-intelligence-systems",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "firm-compliance"
+      ],
+      "checkedAt": "2026-10-21"
+    },
+    {
+      "id": "uk-copyright-ai-2026",
+      "title": "UK copyright and AI policy follow-up",
+      "status": "Policy development",
+      "summary": "The government's March 2026 report says a broad AI-training copyright exception with an opt-out is no longer its preferred approach. It proposes further evidence gathering and work on transparency, licensing and enforcement rather than presenting that proposal as enacted reform.",
+      "implication": "Practitioners advising on training data, licences and content provenance should follow further proposals. Procurement and content-use decisions should not assume that the earlier proposed exception has become law.",
+      "deadline": null,
+      "dateLabel": "Response deadline",
+      "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ],
+      "checkedAt": "2026-10-21"
+    }
+  ],
+  "audiences": [
+    {
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/using-artificial-intelligence-in-legal-practice",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/guidance-and-resources/position-statement-on-the-judicial-use-of-artificial-intelligence-ai/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.sra.org.uk/solicitors/guidance/misuse-ai/",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/how-ai-tools-hallucinate-and-why-it-matters-in-law",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/related-offices-and-bodies/advisory-bodies/cjc/latest-news/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/generative-ai-the-essentials",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWCA/Crim/2026/918.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.barstandardsboard.org.uk/static/5e1baa5c-614c-4105-afae9a9ccdf8d97b/c0d1ed62-fcad-4a68-8ab810de5fa9b116/Artificial-Intelligence-Guidance-May-2026.pdf",
+      "audiences": [
+        "barrister",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.barcouncil.org.uk/resource/updated-guidance-on-generative-ai-for-the-bar.html",
+      "audiences": [
+        "barrister",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance-october-2025/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/wp-content/uploads/2025/06/Ayinde-v-London-Borough-of-Haringey-and-Al-Haroun-v-Qatar-National-Bank.pdf",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.edpb.europa.eu/news/edpb-opinion-on-ai-models-gdpr-principles-support-responsible-ai_en",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/the-impact-and-value-of-ai-for-ip-and-the-courts-a-speech-by-lord-justice-birss/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.drcf.org.uk/publications/press-releases/the-drcf-launches-informal-advice-service-to-support-innovation-and-enable-economic-growth",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/ai-foundation-models-update-paper",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/implementing-the-uks-ai-regulatory-principles-initial-guidance-for-regulators",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.barcouncil.org.uk/resource/new-guidance-on-generative-ai-for-the-bar.html",
+      "audiences": [
+        "barrister",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKFTT/TC/2023/TC09010.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.sra.org.uk/sra/research-publications/artificial-intelligence-legal-market/",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/about-the-ico/what-we-do/our-work-on-artificial-intelligence/response-to-the-consultation-series-on-generative-ai/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://naturalandartificiallaw.com/ai-law-trackers-hub/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.damiencharlotin.com/hallucinations/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.sra.org.uk/solicitors/guidance/effective-supervision-guidance/",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://legalservicesboard.org.uk/wp-content/uploads/2024/04/Technology-and-innovation-guidance-for-publication.pdf",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://legalservicesboard.org.uk/wp-content/uploads/2024/04/Legal-Services-Board-update-on-AI-approach-April-2024-pdf.pdf",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://legalservicesboard.org.uk/wp-content/uploads/2026/06/LSB-AI-plan-2026-27.pdf",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://legalservicesboard.org.uk/research-2/ai-in-legal-services-consumer-expectations-and-existing-standards",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/wp-content/uploads/2023/12/AI-Judicial-Guidance.pdf",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/wp-content/uploads/2025/04/Refreshed-AI-Guidance-published-version.pdf",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Interim-Report-and-Consultation-Use-of-AI-for-Preparing-Court-Documents-2.pdf",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.barcouncil.org.uk/static/bbb74182-4859-4a76-85b1e4b729b84489/Bar-Council-response-to-the-CJC-consultation-on-AI.pdf",
+      "audiences": [
+        "barrister",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.barstandardsboard.org.uk/resources/the-bar-standards-board-publishes-technology-and-innovation-at-the-bar-research.html",
+      "audiences": [
+        "barrister",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.lawsociety.org.uk/Topics/AI-and-lawtech/Whats-changing/Artificial-intelligence-AI-strategy",
+      "audiences": [
+        "solicitor",
+        "inhouse",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/buying-new-technology",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/action-weve-taken/audits-and-overview-reports/2024/11/ai-tools-used-in-recruitment/",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://cy.ico.org.uk/about-the-ico/what-we-do/recruitment-rewired/",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/about-the-ico/our-information/our-strategies-and-plans/artificial-intelligence-and-biometrics-strategy/",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/about-the-ico/our-information/our-strategies-and-plans/artificial-intelligence-and-biometrics-strategy/ai-and-biometrics-strategy-update-march-2026/",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/about-the-ico/research-reports-impact-and-evaluation/research-and-reports/technology-and-innovation/tech-horizons-and-ico-tech-futures/ico-tech-futures-agentic-ai/",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://cy.ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/10/agentic-ai-call-for-evidence/",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/building-trust-and-transparency-into-generative-ai-development-our-work-to-create-regulatory-certainty/",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/ai-and-data-protection-risk-toolkit/",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://cy.ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/about-this-guidance/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKEAT/2026/139.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWHC/Ch/2026/1199.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKUT/IAC/2026/81.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWHC/Ch/2026/923.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKUT/IAC/2025/305.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWFC/OJ/2026/71.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKFTT/GRC/2024/315.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKFTT/GRC/2024/597.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWHC/KB/2026/1889.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKFTT/TC/2025/TC09520.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKFTT/GRC/2026/135.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/696a29bccbe2202b384248c6/Medpro_v_HMRC__Final_Decision_to_Parties.pdf",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKFTT/TC/2025/TC09638.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "colp"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWHC/Ch/2025/2863.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/uk/cases/UKSC/2023/49.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse"
+      ]
+    },
+    {
+      "url": "https://www.supremecourt.uk/cases/judgments/uksc-2024-0131",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse"
+      ]
+    },
+    {
+      "url": "https://www.bailii.org/ew/cases/EWCA/Civ/2024/825.html",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/repository-ai-literacy-practices",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.cnil.fr/en/ai-cnil-publishes-its-first-recommendations-development-artificial-intelligence-systems",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://cnil.fr/en/ai-and-gdpr-cnil-publishes-new-recommendations-support-responsible-innovation",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://cnil.fr/fr/base-legale-interet-legitime-developpement-systeme",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.cnil.fr/fr/developpement-des-systemes-dia-les-recommandations-de-la-cnil-pour-respecter-le-rgpd",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.cnil.fr/sites/default/files/2026-01/ai_checklist.pdf",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/introduction-to-ai-assurance",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/consultations/ai-management-essentials-tool",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/consultations/ai-management-essentials-tool/outcome/guidance-for-using-the-ai-management-essentials-tool-government-response",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/generative-ai-framework-for-hmg",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government",
+      "audiences": [
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/report/2024/artificial-intelligence-in-uk-financial-services-2024",
+      "audiences": [
+        "inhouse",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.fca.org.uk/publications/corporate-documents/mills-review",
+      "audiences": [
+        "inhouse",
+        "firm-compliance"
+      ]
+    },
+    {
+      "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.nist.gov/publications/secure-software-development-practices-generative-ai-and-dual-use-foundation-models-ssdf",
+      "audiences": [
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    },
+    {
+      "url": "https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/",
+      "audiences": [
+        "solicitor",
+        "barrister",
+        "inhouse",
+        "colp",
+        "firm-compliance",
+        "chambers"
+      ]
+    }
+  ]
+}
